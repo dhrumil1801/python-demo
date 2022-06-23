@@ -1,0 +1,23 @@
+x = int(5)
+y = int(4.6)
+z = int("3")
+print(x)
+print(y)
+print(z)
+
+a = float(1)
+b = float(2.5)
+c = float("5.1")
+d = float("6")
+print(a)
+print(b)
+print(c)
+print(d)
+
+
+e = str("s3")
+f = str(1)
+g: str = str(6.9)
+print(e)
+print(f)
+print(g)

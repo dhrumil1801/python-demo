@@ -33,7 +33,7 @@ if "expensive" not in txt:
   print("No, 'expensive' is NOT present.")
 
   # slicing #
-h = "hellow Dhrumil"
+h = "hellow"
 print(h[2:4])
 
 # scling from the start #
